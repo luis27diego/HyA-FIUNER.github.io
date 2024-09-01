@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[5441],{8121:e=>{e.exports=JSON.parse('{"permalink":"/HyA-FIUNER.github.io/blog/tags/colaborar","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

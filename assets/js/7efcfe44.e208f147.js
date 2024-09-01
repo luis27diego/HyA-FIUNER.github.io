@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[2105],{8031:a=>{a.exports=JSON.parse('{"label":"editar","permalink":"/HyA-FIUNER.github.io/blog/tags/editar","allTagsPath":"/HyA-FIUNER.github.io/blog/tags","count":1,"unlisted":false}')}}]);
