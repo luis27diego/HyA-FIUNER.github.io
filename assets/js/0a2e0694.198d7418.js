@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkhya_fiuner_github_io=self.webpackChunkhya_fiuner_github_io||[]).push([[8324],{1438:i=>{i.exports=JSON.parse('{"title":"Tejidos","slug":"/category/tejidos","permalink":"/HyA-FIUNER.github.io/docs/category/tejidos","navigation":{"next":{"title":"Tejido epitelial","permalink":"/HyA-FIUNER.github.io/docs/histologia/tejidos/tejido-epitelial/"}}}')}}]);
